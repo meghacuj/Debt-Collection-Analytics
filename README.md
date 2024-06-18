@@ -4,7 +4,7 @@ Levels and thresholds:
 
 Level 0: 
 Expected recovery amounts >$0 and <=$1000
-Level 1: 
+Level 1:
 Expected recovery amounts >$1000 and <=$2000
 The threshold of $1000 separates Level 0 from Level 1
 
